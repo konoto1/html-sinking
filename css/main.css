@@ -18,15 +18,11 @@ html {
 }
 
 .bg h1 {
-    display: flex;
-    justify-content: left;
     font-size: 160px;
     margin: 0;
 }
 
 .bg .paragraph {
-    display: flex;
-    justify-content: left;
     color: #fff;
     font-size: 30px;
     padding-top: 10px;
